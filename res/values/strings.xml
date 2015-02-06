@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Topic2-Test</string>
+    <string name="NextActivityButtonTest">Next Activity</string>
+    <string name="PreviousActivityButtonTest">Previous Activity</string>
+
+</resources>
